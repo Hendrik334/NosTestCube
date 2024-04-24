@@ -1,0 +1,44 @@
+<chunk name="Object" index="0">
+  <items count="2">
+    <item name="GUID" type_name="gh_guid" type_code="9">c552a431-af5b-46a9-a8a4-0fcbc27ef596</item>
+    <item name="Name" type_name="gh_string" type_code="10">Group</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="27">
+        <item name="Border" type_name="gh_int32" type_code="3">1</item>
+        <item name="Colour" type_name="gh_drawing_color" type_code="36">
+          <ARGB>150;170;135;255</ARGB>
+        </item>
+        <item name="Description" type_name="gh_string" type_code="10">A group of Grasshopper objects</item>
+        <item name="ID" index="0" type_name="gh_guid" type_code="9">08ab1a5c-b45b-4640-b845-1d43c118ddc9</item>
+        <item name="ID" index="1" type_name="gh_guid" type_code="9">ffe9a3d8-08fc-4951-a9cf-b8d568ef80b5</item>
+        <item name="ID" index="2" type_name="gh_guid" type_code="9">0de29704-9a7a-4381-9356-d5c323049dee</item>
+        <item name="ID" index="3" type_name="gh_guid" type_code="9">2a76fcb8-855c-447f-b5bd-6cad5e1e8366</item>
+        <item name="ID" index="4" type_name="gh_guid" type_code="9">91a83d60-7b66-4c46-b50c-793dc8dc91d1</item>
+        <item name="ID" index="5" type_name="gh_guid" type_code="9">547dfc15-64f6-4cf4-b082-7f2c3b6ef2f5</item>
+        <item name="ID" index="6" type_name="gh_guid" type_code="9">8225dac1-9d80-492f-825d-0623e5b2b04f</item>
+        <item name="ID" index="7" type_name="gh_guid" type_code="9">ebdfa0ce-1ea7-4996-a532-8386fab1bf01</item>
+        <item name="ID" index="8" type_name="gh_guid" type_code="9">0a384518-f547-4ccf-95cb-c831765d0671</item>
+        <item name="ID" index="9" type_name="gh_guid" type_code="9">4f24bc43-6066-476b-8614-d909d5709a43</item>
+        <item name="ID" index="10" type_name="gh_guid" type_code="9">614fc1b6-be67-4b92-99fe-98b4c78ec157</item>
+        <item name="ID" index="11" type_name="gh_guid" type_code="9">61e9fc0a-314e-4bed-928c-b44c6db9a400</item>
+        <item name="ID" index="12" type_name="gh_guid" type_code="9">63e51def-cb81-4f99-85a1-c516d38e7607</item>
+        <item name="ID" index="13" type_name="gh_guid" type_code="9">bf6afdb1-1e5c-4361-a31c-8cf302f47638</item>
+        <item name="ID" index="14" type_name="gh_guid" type_code="9">0890c9bc-d5fd-4cbf-b428-408894f59a80</item>
+        <item name="ID" index="15" type_name="gh_guid" type_code="9">64b7cc1d-8cea-4240-ba4a-81eb536e9e9b</item>
+        <item name="ID" index="16" type_name="gh_guid" type_code="9">a8d2d3e2-027b-4873-8598-d31fa3d3ee08</item>
+        <item name="ID" index="17" type_name="gh_guid" type_code="9">3068cbf7-35e9-419e-bc5f-b7745ed6aee4</item>
+        <item name="ID" index="18" type_name="gh_guid" type_code="9">11d70b24-a426-4c56-886f-2949a7a35fb3</item>
+        <item name="ID" index="19" type_name="gh_guid" type_code="9">4468f1a9-d080-4b04-b2f5-c4a902985518</item>
+        <item name="ID_Count" type_name="gh_int32" type_code="3">20</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">6ab979c4-decf-4f6a-bfa5-64de189c145d</item>
+        <item name="Name" type_name="gh_string" type_code="10">Group</item>
+        <item name="NickName" type_name="gh_string" type_code="10"></item>
+      </items>
+      <chunks count="1">
+        <chunk name="Attributes" />
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>

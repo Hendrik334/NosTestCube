@@ -1,0 +1,125 @@
+<chunk name="Object" index="0">
+  <items count="3">
+    <item name="GUID" type_name="gh_guid" type_code="9">862d4eab-501a-47b3-acc3-e1a7f74ea62d</item>
+    <item name="Lib" type_name="gh_guid" type_code="9">d45b0aa7-fa27-4b91-3a40-b9f60d192781</item>
+    <item name="Name" type_name="gh_string" type_code="10">Scan Compare</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="6">
+        <item name="Description" type_name="gh_string" type_code="10">compares the scan with the voxel space</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">cd2e84b8-829a-4735-844b-fcd6fa52254e</item>
+        <item name="Locked" type_name="gh_bool" type_code="1">true</item>
+        <item name="Name" type_name="gh_string" type_code="10">Scan Compare</item>
+        <item name="NickName" type_name="gh_string" type_code="10">S.C.</item>
+      </items>
+      <chunks count="4">
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>2851</X>
+              <Y>2973</Y>
+              <W>85</W>
+              <H>44</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>2892</X>
+              <Y>2995</Y>
+            </item>
+          </items>
+        </chunk>
+        <chunk name="param_input" index="0">
+          <items count="9">
+            <item name="Access" type_name="gh_int32" type_code="3">1</item>
+            <item name="Description" type_name="gh_string" type_code="10">The scan from the print. Ensure that scan is in right scale and aligned with the object.</item>
+            <item name="InstanceGuid" type_name="gh_guid" type_code="9">60eb875b-6d1c-4700-a90b-8bf1b46b900a</item>
+            <item name="Locked" type_name="gh_bool" type_code="1">true</item>
+            <item name="Name" type_name="gh_string" type_code="10">Scan</item>
+            <item name="NickName" type_name="gh_string" type_code="10">Sc.</item>
+            <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">811ccd22-51ab-4555-8eef-11fd2a5eb6d0</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
+          </items>
+          <chunks count="1">
+            <chunk name="Attributes">
+              <items count="2">
+                <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                  <X>2853</X>
+                  <Y>2975</Y>
+                  <W>24</W>
+                  <H>20</H>
+                </item>
+                <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                  <X>2866.5</X>
+                  <Y>2985</Y>
+                </item>
+              </items>
+            </chunk>
+          </chunks>
+        </chunk>
+        <chunk name="param_input" index="1">
+          <items count="11">
+            <item name="Description" type_name="gh_string" type_code="10">Represent a 2d voxelized space that each of its voxel may have sub voxel space.</item>
+            <item name="InstanceGuid" type_name="gh_guid" type_code="9">d464886f-ab21-45e4-ab73-b2f3f5c6e686</item>
+            <item name="Locked" type_name="gh_bool" type_code="1">true</item>
+            <item name="Name" type_name="gh_string" type_code="10">Voxel space</item>
+            <item name="NickName" type_name="gh_string" type_code="10">V.S.</item>
+            <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">4139645f-5407-4b32-88ed-c96bedc5fdf4</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
+            <item name="Tolerance" type_name="gh_double" type_code="6">0</item>
+            <item name="_color" type_name="gh_int32" type_code="3">0</item>
+            <item name="_label" type_name="gh_int32" type_code="3">0</item>
+          </items>
+          <chunks count="1">
+            <chunk name="Attributes">
+              <items count="2">
+                <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                  <X>2853</X>
+                  <Y>2995</Y>
+                  <W>24</W>
+                  <H>20</H>
+                </item>
+                <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                  <X>2866.5</X>
+                  <Y>3005</Y>
+                </item>
+              </items>
+            </chunk>
+          </chunks>
+        </chunk>
+        <chunk name="param_output" index="0">
+          <items count="10">
+            <item name="Description" type_name="gh_string" type_code="10">Represent a 2d voxelized space that each of its voxel may have sub voxel space.</item>
+            <item name="InstanceGuid" type_name="gh_guid" type_code="9">c4e36b70-3251-4033-a926-f63933a7914c</item>
+            <item name="Locked" type_name="gh_bool" type_code="1">true</item>
+            <item name="Name" type_name="gh_string" type_code="10">Voxel space</item>
+            <item name="NickName" type_name="gh_string" type_code="10">V.S.</item>
+            <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+            <item name="Tolerance" type_name="gh_double" type_code="6">10</item>
+            <item name="_color" type_name="gh_int32" type_code="3">4</item>
+            <item name="_label" type_name="gh_int32" type_code="3">4</item>
+          </items>
+          <chunks count="1">
+            <chunk name="Attributes">
+              <items count="2">
+                <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                  <X>2907</X>
+                  <Y>2975</Y>
+                  <W>27</W>
+                  <H>40</H>
+                </item>
+                <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                  <X>2920.5</X>
+                  <Y>2995</Y>
+                </item>
+              </items>
+            </chunk>
+          </chunks>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>

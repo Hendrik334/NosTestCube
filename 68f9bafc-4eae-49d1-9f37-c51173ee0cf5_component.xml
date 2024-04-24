@@ -1,0 +1,40 @@
+<chunk name="Object" index="0">
+  <items count="2">
+    <item name="GUID" type_name="gh_guid" type_code="9">b6236720-8d88-4289-93c3-ac4c99f9b97b</item>
+    <item name="Name" type_name="gh_string" type_code="10">Relay</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="12">
+        <item name="Access" type_name="gh_int32" type_code="3">2</item>
+        <item name="Description" type_name="gh_string" type_code="10">A wire relay object</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">68f9bafc-4eae-49d1-9f37-c51173ee0cf5</item>
+        <item name="Name" type_name="gh_string" type_code="10">Relay</item>
+        <item name="NickName" type_name="gh_string" type_code="10"></item>
+        <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+        <item name="Source" index="0" type_name="gh_guid" type_code="9">bf6afdb1-1e5c-4361-a31c-8cf302f47638</item>
+        <item name="Source" index="1" type_name="gh_guid" type_code="9">0890c9bc-d5fd-4cbf-b428-408894f59a80</item>
+        <item name="Source" index="2" type_name="gh_guid" type_code="9">a6d0dcaf-5874-40c9-9396-9bf134b135f6</item>
+        <item name="Source" index="3" type_name="gh_guid" type_code="9">5a12fa20-bf21-4b7e-af4f-445a26772c3d</item>
+        <item name="Source" index="4" type_name="gh_guid" type_code="9">311eb3d8-ebb7-454f-b2e6-5f32b2459b96</item>
+        <item name="SourceCount" type_name="gh_int32" type_code="3">5</item>
+      </items>
+      <chunks count="1">
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>18565</X>
+              <Y>13267</Y>
+              <W>218</W>
+              <H>16</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>18674</X>
+              <Y>13275</Y>
+            </item>
+          </items>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>
